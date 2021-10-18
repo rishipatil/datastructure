@@ -1,0 +1,12 @@
+package com.demo.algorithms.searchingandsorting;
+
+public class BubbleSort {
+
+	public static void main(String[] args) {
+		BubbleSort bs = new BubbleSort();
+
+		int arr[] = {10,34,22,58,18,26,5};
+		int result = bs.bubbleSort(arr);
+	}
+
+}

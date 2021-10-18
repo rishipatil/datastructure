@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;BinarySearchIterative.java&apos; to &apos;AlgorithmExamples/src/com.demo.algorithms.searchingandsorting&apos;&#x0D;&#x0A;- Original project: &apos;AlgorithmExamples&apos;&#x0D;&#x0A;- Destination element: &apos;AlgorithmExamples/src/com.demo.algorithms.searchingandsorting&apos;&#x0D;&#x0A;- Original element: &apos;com.demo.algorithms.searchingandsorting.BinarySearchIterative.java&apos;" description="Copy compilation unit" destination="/src&lt;com.demo.algorithms.searchingandsorting" element1="/src&lt;com.demo.algorithms.searchingandsorting{BinarySearchIterative.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1633936255151" units="1" version="1.0"/>
+</session>
